@@ -58,19 +58,19 @@
             ],
             "answers" :
             [
-                { "answer" : "true" },
-                { "answer" : "true" },
-                { "answer" : "true" },
+                { "answer" : "3" },
+                { "answer" : "five" },
+                { "answer" : "chocolat" },
                 { "answer" : "true" },
                 { "answer" : "true" }
             ],
             "options" :
             [
-                { "option" : "true" }, { "option" : "true" }, { "option" : "true" }, { "option" : "true" },
-                { "option" : "true" }, { "option" : "true" }, { "option" : "true" }, { "option" : "true" },
-                { "option" : "true" }, { "option" : "true" }, { "option" : "true" }, { "option" : "true" },
-                { "option" : "true" }, { "option" : "true" }, { "option" : "true" }, { "option" : "true" },
-                { "option" : "true" }, { "option" : "true" }, { "option" : "true" }, { "option" : "true" }
+                { "option" : "1" }, { "option" : "3" }, { "option" : "6" }, { "option" : "8" },
+                { "option" : "one" }, { "option" : "three" }, { "option" : "six" }, { "option" : "five" },
+                { "option" : "chocolat" }, { "option" : "milk" }, { "option" : "the" }, { "option" : "coco" },
+                { "option" : "Lindt chocolate" }, { "option" : "Dairy Milk" }, { "option" : "Swiss chocolate" }, { "option" : "the slogan" },
+                { "option" : "Yes" }, { "option" : "No" }, { "option" : "False" }, { "option" : "true" }
             ]
         }
     ],
