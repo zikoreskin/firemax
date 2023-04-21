@@ -1,12 +1,12 @@
 {
     "config" : [
         {
-            "int_interval" : 2,
+            "int_interval" : 5,
             "activate_ads" : "true",
             "activate_steps" : "false",
             "activate_step_email" : "false",
             "one_signal" : "d017388c-1027-4900-a0a5-f5cc29ffc6d5",
-            "network" : "fan",
+            "network" : "max",
 
             "max_ban" : "6e91c2485c780939",
             "max_native" : "c7625f0cb4941d33",
